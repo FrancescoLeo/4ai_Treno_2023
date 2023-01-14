@@ -1,4 +1,10 @@
-
+/**
+ * 
+ * 
+ * @author 4a
+ * versione 2
+ *
+ */
 public class Treno {
 
 	private String nome,destinazione;
