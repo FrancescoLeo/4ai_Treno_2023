@@ -2,7 +2,7 @@
  * 
  * 
  * @author 4a
- * versione 3
+ * versione 4
  *
  */
 public class Treno {
